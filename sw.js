@@ -116,11 +116,11 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8ad22df2c9d5df2bec79d2a834881774"
+    "revision": "e17096372989cd6792124f1b57cc3a43"
   },
   {
     "url": "js/script.js",
-    "revision": "0922871d55ba41b63f3f1c9a43cad443"
+    "revision": "29aea04c99a21aa0e95cc52602d09992"
   },
   {
     "url": "manifest.json",
